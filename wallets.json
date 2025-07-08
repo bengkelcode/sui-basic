@@ -1,0 +1,8 @@
+{
+  "amount": 1,
+  "sender": "suiprivkey1xxxx",
+  "receivers": [
+    "suiprivkey1xxxxx",
+    "suiprivkey1xxxxx"
+  ]
+}
