@@ -1,0 +1,20 @@
+{
+  "name": "sui-basic",
+  "version": "1.0.0",
+  "main": "auto-send-with-privkey.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@mysten/sui.js": "^0.54.1",
+    "xlsx": "^0.18.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
